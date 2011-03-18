@@ -1,0 +1,2 @@
+Credit card validness checking based on the Luhn algorithm.
+For more information -and specification- please see http://rubyquiz.com/quiz122.html
